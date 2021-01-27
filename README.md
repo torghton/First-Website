@@ -13,4 +13,4 @@ This took about a day to make.
 I'm very proud of my self, I never made a website before, and I didn't know that it was this easy to make.
 
 ## Resources
-*https://www.w3schools.com/html/
+* ttps://www.w3schools.com/html/
